@@ -1,0 +1,8 @@
+
+* Webextension Template
+
+
+** Prerequisites
+ 
+ - nix
+ - devenv
